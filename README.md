@@ -1,6 +1,6 @@
 #### Built in Unreal Engine 5
 
-The first small sandbox made during Scripting for Games I at UT Dallas.
+The final small sandbox made during Scripting for Games I at UT Dallas.
 (August 2026)
 
 Skills Practiced:
